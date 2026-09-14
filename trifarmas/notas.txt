@@ -1,0 +1,6 @@
+http://localhost:8000 para acessar com a conta google
+
+
+metas:
+-fazer ler a receita de vdd no celular interpretar e buscar o remedio mais barato
+-melhorar algumas coisas dentro do proprio app como dentro da tela de criar conta
