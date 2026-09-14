@@ -1,5 +1,5 @@
 http://localhost:8000 para acessar com a conta google
-python3 -m http.server 8000 para rodar o projeto nesse localhost
+py -m http.server 8000 para rodar o projeto nesse localhost
 
 metas:
 -fazer ler a receita de vdd no celular interpretar e buscar o remedio mais barato
